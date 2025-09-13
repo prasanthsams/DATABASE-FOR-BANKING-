@@ -1,7 +1,7 @@
 # DATABASE-FOR-BANKING-
 Banking Database Management System (DBMS) Project
 
-📑 Table of Contents
+ Table of Contents
 
 1. Project Overview
 
@@ -28,22 +28,22 @@ Banking Database Management System (DBMS) Project
 
 ---
 
-📌 Project Overview
+Project Overview
 
 This project is a Banking Management Database built using PostgreSQL / PL/pgSQL.
 It contains 16 tables for core banking operations such as customers, accounts, employees, transactions, branches, and more.
 
 The project also implements:
 
-✅ Primary Keys, Candidate Keys, Foreign Keys
+Primary Keys, Candidate Keys, Foreign Keys
 
-✅ Triggers (for automatic balance updates & employee audits)
+ Triggers (for automatic balance updates & employee audits)
 
-✅ Locking Mechanisms (row-level & table-level locks)
+ Locking Mechanisms (row-level & table-level locks)
 
-✅ Stored Procedures & Functions
+ Stored Procedures & Functions
 
-✅ Transaction Management (BEGIN, COMMIT, ROLLBACK)
+ Transaction Management (BEGIN, COMMIT, ROLLBACK)
 
 
 
